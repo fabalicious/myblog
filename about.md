@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stuff I use, stuff I like
+title: Stuff I use
 permalink: /about/
 ---
 
