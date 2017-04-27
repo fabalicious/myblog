@@ -21,9 +21,9 @@ Preliminary steps before starting to code:
  [jekyll-windows]:            https://jekyllrb.com/docs/windows/
  [microsoft-ubuntu-about]:    https://msdn.microsoft.com/en-us/commandline/wsl/about
  [microsoft-ubuntu-install]:  https://msdn.microsoft.com/en-us/commandline/wsl/install_guide
- [burela-jekyll-install]:     https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/
+ [burela-jekyll-install]:      https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/
  [choco-install]:             https://chocolatey.org/install
- [jekyll-quick-start]:        
+ [jekyll-quick-start]:        https://jekyllrb.com/docs/quickstart/
  [jekyll-localhost]:          http://localhost:4000/
  [markdown-cheatsheet]:       https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
  [hongkiat-github-pages]:     http://www.hongkiat.com/blog/jekyll-github-pages/amp/
