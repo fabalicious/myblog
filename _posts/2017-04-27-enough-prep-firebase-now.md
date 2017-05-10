@@ -8,4 +8,4 @@ categories: firebase
 
 * Before starting to develop my own app, let's follow [this tutorial][firebase-tutorial] of how build a chat client. It seems to explain the whole process well and allows me to get familiar with the platform without having to tackle the programming challenges at the same time.
 
-![firebase-tutorial]:   https://codelabs.developers.google.com/codelabs/firebase-web/#0
+[firebase-tutorial]:   https://codelabs.developers.google.com/codelabs/firebase-web/#0
